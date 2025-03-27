@@ -16,10 +16,13 @@ A classe WebScraping contém toda a lógica de:
 
 🚀 Tecnologias Utilizadas
 
-*Java (linguagem principal)
-*Selenium WebDriver (para automação de navegador)
-*Edge WebDriver (para execução no navegador Microsoft Edge)
-*Java I/O e NIO (para manipulação de arquivos)
+Java (linguagem principal)
+
+Selenium WebDriver (para automação de navegador)
+
+Edge WebDriver (para execução no navegador Microsoft Edge)
+
+Java I/O e NIO (para manipulação de arquivos)
 
 ZIP API (para compactação dos arquivos).
 
@@ -27,7 +30,7 @@ ZIP API (para compactação dos arquivos).
 
 1️⃣ Requisitos
 
-Java 8+ instalado
+Java 8 ou posterior instalado
 
 Edge WebDriver (colocado em resources/msedgedriver.exe)
 
