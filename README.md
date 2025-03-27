@@ -28,13 +28,13 @@ ZIP API (para compactação dos arquivos).
 
 📥 Como Usar
 
-1️⃣ Requisitos
+Requisitos
 
 Java 8 ou posterior instalado
 
 Edge WebDriver (colocado em resources/msedgedriver.exe)
 
-2️⃣ Executar o Código
+Executar o Código
 
 1 - Clone este repositório:https://github.com/Harissis/PROCESSO_SELETIVO_WEB_SCRAPING
 
@@ -45,6 +45,9 @@ Edge WebDriver (colocado em resources/msedgedriver.exe)
 📑 O que este código faz?
 
 Acessa o site da ANS.
+
 Baixa os arquivos PDF e XLSX automaticamente.
+
 Armazena os arquivos na pasta Downloads do usuário.
+
 Compacta tudo em um único arquivo ZIP.
